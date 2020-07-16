@@ -1,0 +1,15 @@
+// spring.py
+(base) apples-mbp-2:Assignment 3 apple$ /anaconda3/bin/python "/Users/apple/Desktop/Mars Lander/Assignment 3/spring.py"
+Execution time:  6.2419312 s
+
+// spring.cpp (without compiler optimizations)
+bash-3.2$ ./a.out
+Execution time: 1.6965 s
+
+
+// spring.cpp (with compiler optimizations)
+bash-3.2$ ./a.out
+Execution time: 0.463727 s
+
+C++ Programs Using Aquamacs IDE and GNU compiler
+-O2 Optimization
